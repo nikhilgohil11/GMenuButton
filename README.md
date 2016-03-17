@@ -12,6 +12,6 @@ I found shape animation (similar to material) like things from [ios-material-des
 
 ![](https://github.com/nikhilgohil11/GMenuButton/blob/master/GMenuButton.gif)
 
-## Lincense ##
+## License ##
 
 [MIT License] (http://nikhilgohil11.mit-license.org/ "MIT License")
